@@ -1,5 +1,6 @@
 Affirmations App - Starter Code
 ================================
+https://developer.android.com/courses/android-basics-compose/course
 
 Starter code for the Android Basics in Compose: Affirmations app.
 
